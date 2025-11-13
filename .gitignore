@@ -1,0 +1,11 @@
+*.csv
+*.dcm
+*.nii.gz
+*.txt
+*/plots/*
+ssim_tests/*
+*.zip
+*.xlsx
+*.pyc
+network_vs_human_performance/5_analysis_human_vs_network.ipynb
+network_performance/5_monitoring_bu.ipynb
